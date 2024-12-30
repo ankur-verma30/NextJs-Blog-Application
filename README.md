@@ -44,4 +44,10 @@ This project is a Full Stack Blog Website built using Next.js, MongoDB, and Tail
    http://localhost:3000
    ```
 
+## How to Run the App  
+
+1. Adding the functionality of Get Started Button
+2. Adding the functionality of Adding Blog Posts 
+3. Authenticating the user with the access token and password
+
 Start exploring the Blog App! 🎉
